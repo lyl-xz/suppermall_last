@@ -1,0 +1,126 @@
+<template>
+ <div>
+   <scroll class="content">
+     <ul>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+       <li>nihao</li>
+     </ul>
+   </scroll>
+ </div>
+</template>
+
+<script>
+import scroll from 'components/common/scroll/scroll'
+export default {
+name:"profile",
+components: {
+  scroll
+}
+}
+</script>
+
+<style scoped>
+.content{
+  height: 300px;
+  background-color: red;
+  overflow: hidden;
+}
+</style>
