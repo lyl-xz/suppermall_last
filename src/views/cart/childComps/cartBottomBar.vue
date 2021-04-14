@@ -20,6 +20,7 @@ export default {
  },
  computed: {
    totalPrice(){
+     //filter过滤器，过滤选中的元素（是一个数组）
      //reduce汇总，计算总和,toFixed(2)保留两位小数
      return "￥" + this.$store.state.cartList.filter(item => {
        return item.checked
